@@ -1,3 +1,5 @@
+0.001001 2007-12-22
+	 - Fixed test failure when Test::Pod::Coverage was missing
 
 0.001000 2007-12-15
         - Initial Release. Yay!

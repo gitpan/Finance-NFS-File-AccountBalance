@@ -16,4 +16,4 @@ requires:
   DateTime: 0
   IO::File: 0
   Moose: 0.28
-version: 0.001000
+version: 0.001001

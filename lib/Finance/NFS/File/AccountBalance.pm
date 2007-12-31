@@ -4,7 +4,7 @@ use Moose;
 use IO::File;
 use DateTime;
 
-our $VERSION = '0.001000';
+our $VERSION = '0.001001';
 
 my $rh  = qr/^H(.{3}).{17}(.{16}).{4}(\d{6}).{4}(.{15}).{35}\r?$/;
 my $rt  = qr/^T.{20}(.{15}).{5}(.{15}).{45}\r?$/;
